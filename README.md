@@ -1,3 +1,3 @@
 # relogio-digital
 
-<img src="https://github.com/Thais-DN/relogio-digital/blob/main/tela.gif" alt="VideoTela">
+<img src="/assents/tela.gif" alt="VideoTela">
